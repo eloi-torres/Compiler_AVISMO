@@ -1,0 +1,4 @@
+inicio
+defina name como modelo;
+name := NaH3CH=LiCH2NH3;
+fin

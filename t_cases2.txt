@@ -1,0 +1,5 @@
+inicio
+defina flor como modelo;
+flor := CH3:CH=CH-CH2-CH3;
+pesomolecular(flor);
+fin

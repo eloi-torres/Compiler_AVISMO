@@ -1,0 +1,5 @@
+inicio
+defina acido como modelo;
+acido := CH3:CH=CH-CH2-CH3;
+graficar3d(acido);
+fin

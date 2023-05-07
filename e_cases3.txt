@@ -1,0 +1,4 @@
+inicio
+defina acido como modelo;
+acido := C
+fin
