@@ -48,7 +48,7 @@ Norberto Collazo
 2. Cree una rama con su funcionalidad o corrección de errores.
 3. Envíe una solicitud de extracción a la rama principal.
 
-Autores
-Eloi Torres 
-Norberto Collazo 
+## Autores
+# Eloi Torres 
+# Norberto Collazo 
 
